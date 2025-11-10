@@ -1,0 +1,12 @@
+Team Name:
+Team Members: 
+Noah Gamble-Steinitz NRG89@pitt.edu
+Jibran Farooq jif103@pitt.edu
+Sid Edupalli sie19@pitt.edu
+
+The data base I used was Police Incident Blotter (Archive)
+This provide information regarding every police incident 
+An example of a line would look like:
+1	2802309	16000001	10	2016-01-01T00:00:00	400 Block North Shore DR Pittsburgh, PA 15212	Y	North Shore	1	HARRASSMENT/THREAT/ATTEMPT/PHY	2702 Aggravated Assault. / 2709(a) Harassment. / 3503.B1I DEF. TRESPASS ACTUAL COMMUNICATION	2205	1	6	-80.01233658	40.44626305
+The link for my data:
+https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/044f2016-1dfd-4ab0-bc1e-065da05fca2e
