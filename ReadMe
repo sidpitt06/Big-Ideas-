@@ -13,11 +13,12 @@ https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/044f2016-1d
 
 
 
-The data set Jibran Used was _____
+The data set Jibran Used was Property Sales Transactions
 This provided information regarding the housing economy of different areas 
-An example of a line of data looks like
-
-The link is 
+An example of a line of data looks like:
+31995262	0125M00148000000	0 KELLY ST, PITTSBURGH, PA 15208	0			KELLY	ST			PITTSBURGH	PA	15208	47	Pittsburgh	112	12th Ward - PITTSBURGH	2012-10-26	2012-10-26	1824	TR13	089	2	CITY TREASURER SALE	TS	TREASURER DEED
+The link is:
+https://data.wprdc.org/dataset/real-estate-sales/resource/5bbe6c55-bce6-4edb-9d04-68edeb6bf7b1
 
 
 The data set Sid used was ___
