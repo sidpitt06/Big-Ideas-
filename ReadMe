@@ -21,11 +21,15 @@ The link is:
 https://data.wprdc.org/dataset/real-estate-sales/resource/5bbe6c55-bce6-4edb-9d04-68edeb6bf7b1
 
 
-The data set Sid used was ___
-This provided informaiton regarding the ___
+The data set Sid used was Neighborhood Profiles Dataset (June 2024).
+This provided information regarding 
+the population, road infrastructure, street density, number of steps, and other neighborhood characteristics across Pittsburgh.
 An example line of this data looks like:
 
-The link to the data is 
+Allegheny Center, 3, 933, 2.23, 4.14, 19.7, 0, 0
+
+The link to the data is:
+https://data.wprdc.org/dataset/fd29df0b-07c0-4e97-926e-d781dd1f8a8d/resource/a2d6468e-0229-4c6a-92c5-10814092e580
 
 
 
