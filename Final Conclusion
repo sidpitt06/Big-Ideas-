@@ -2,4 +2,3 @@ Final Conclusion
 Overall, after combining all of the “Bestness” scores from all three of our datasets, the best city to live in Pittsburgh is Edgeworth, with a combined bestness score of 1.030131. This score comes from a housing economy score of 0.619131, a population score of 0.401, and a safety score of 0.010.
 It was interesting that Edgeworth ranked as the overall best neighborhood in Pittsburgh, since none of the other datasets placed it at the very top individually. Edgeworth’s strength comes almost entirely from its exceptionally strong housing economy score, which outweighed the fact that it was not 
 the safest neighborhood nor the best by population metrics. When all three metrics were summed, Edgeworth ultimately came out on top — showing how a strong housing market can significantly influence overall livability when multiple factors are considered.
-
