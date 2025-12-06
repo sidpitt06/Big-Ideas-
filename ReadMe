@@ -12,7 +12,7 @@ An example of a line would look like:
 1	2802309	16000001	10	2016-01-01T00:00:00	400 Block North Shore DR Pittsburgh, PA 15212	Y	North Shore	1	HARRASSMENT/THREAT/ATTEMPT/PHY	2702 Aggravated Assault. / 2709(a) Harassment. / 3503.B1I DEF. TRESPASS ACTUAL COMMUNICATION	2205	1	6	-80.01233658	40.44626305
 The link for my data:
 https://data.wprdc.org/dataset/uniform-crime-reporting-data/resource/044f2016-1dfd-4ab0-bc1e-065da05fca2e
-
+This data set provide crime and arrest reports from all over pittsburgh.
 
 
 The data set Jibran Used was Property Sales Transactions
@@ -21,6 +21,7 @@ An example of a line of data looks like:
 31995262	0125M00148000000	0 KELLY ST, PITTSBURGH, PA 15208	0			KELLY	ST			PITTSBURGH	PA	15208	47	Pittsburgh	112	12th Ward - PITTSBURGH	2012-10-26	2012-10-26	1824	TR13	089	2	CITY TREASURER SALE	TS	TREASURER DEED
 The link is:
 https://data.wprdc.org/dataset/real-estate-sales/resource/5bbe6c55-bce6-4edb-9d04-68edeb6bf7b1
+This contains housing infromation like sell rates and more to determine which area has the best housing economy.
 
 
 The data set Sid used was Neighborhood Profiles Dataset (June 2024).
@@ -30,7 +31,7 @@ An example line of this data looks like:
 Allegheny Center, 3, 933, 2.23, 4.14, 19.7, 0, 0
 The link to the data is:
 https://data.wprdc.org/dataset/fd29df0b-07c0-4e97-926e-d781dd1f8a8d/resource/a2d6468e-0229-4c6a-92c5-10814092e580
-
+This has a lot of information on general population which can help see which area has the best population of people.
 
 
 
